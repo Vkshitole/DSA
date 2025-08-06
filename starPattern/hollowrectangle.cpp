@@ -9,7 +9,7 @@ int main() {
             for (int c = 0; c < n; c+=1) {
                 cout << "*";
             }
-        } 
+        }
             else {
                 cout << "*";
                 for (int i = 0; i < n-2 ; i+=1) {
